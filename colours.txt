@@ -1,0 +1,5 @@
+PASTEL GRAY - C9C9C9 --- Border
+JET - 333333 --- Boxes
+CARMINE PINK - E54747 --- Buttons
+SNOW - F2EFEF --- Background
+EBONY - 5E5E5E --- Labels
