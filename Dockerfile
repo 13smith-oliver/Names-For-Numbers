@@ -7,7 +7,7 @@ ADD names_for_numbers.db /
 ADD NFN.ico /
 ADD student_ui.py /
 ADD teacher_ui.py /
-ADD tick_mark.py /
+ADD tick_mark.png /
 RUN pip install numpy
 RUN pip install matplotlib
 CMD [ "python", "./login.py" ]
