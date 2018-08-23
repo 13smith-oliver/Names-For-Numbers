@@ -1,4 +1,4 @@
-FROM gui:base
+FROM strm/vnc
 FROM python:3
 
 ADD login.py /
