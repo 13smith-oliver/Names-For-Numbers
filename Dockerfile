@@ -1,3 +1,4 @@
+FROM gui:base
 FROM python:3
 
 ADD login.py /
